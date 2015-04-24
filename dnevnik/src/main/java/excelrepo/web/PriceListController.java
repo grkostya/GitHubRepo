@@ -99,7 +99,7 @@ public class PriceListController {
            return "redirect:/index";
     }
 
-    // POST  bulk update data in database by data from loaded file
+    // GET  bulk update data in database by data from loaded file
     //
     @RequestMapping(value = "/UpdateFromFile", method = RequestMethod.GET)
     public String UpdateFromFile(Model model) {
