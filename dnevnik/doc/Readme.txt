@@ -41,7 +41,7 @@ and hibernate.cfg.xml (strange, but I coudn't find alternative way and I believe
 
 3. Deploy;
 4. Go to localhost:8081 (see StartScreen.png). "Update from File" button is disabled;
-5. Choose Excel File for loading data (see ChooseFileScreen.png)
+5. Choose Excel File(testData/pricelist.xls) for loading data (see ChooseFileScreen.png). 
 6. Press "Upload" button (see UploadScreen.png);
 7. "Update from File" button is enabled,"Upload" button is disabled;
 8. Press "Update from File" button (see UpdateFromFileScreen.png);
