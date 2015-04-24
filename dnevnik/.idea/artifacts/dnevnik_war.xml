@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="dnevnik:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dnevnik.war">
+      <element id="artifact" artifact-name="dnevnik:war exploded" />
+    </root>
+  </artifact>
+</component>
